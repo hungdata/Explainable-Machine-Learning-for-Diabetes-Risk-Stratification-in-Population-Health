@@ -1,1 +1,0 @@
-# Project diagnosis diabetes
